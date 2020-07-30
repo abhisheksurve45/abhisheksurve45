@@ -11,11 +11,14 @@
 <a href="https://www.instagram.com/abhisheksurve_/">
   <img align="left" alt="Abhishek's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
+<a href="https://www.facebook.com/abhisheksurve45/">
+  <img align="left" alt="Abhishek's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
 
 <br />
 <br />
 
-Hi, I'm [Abhishek Surve](https://abhisheksurve.netlify.app/) , a Computer Engineer 🚀 from Mumbai, India. I'm work as Web Application Developer @ [Media.net](https://www.media.net/) 👔. Besides programming, I enjoy playing badminton and cricket.
+Hi, I'm [Abhishek Surve](https://abhisheksurve.netlify.app/), Computer Engineer 🚀 from Mumbai, India. I'm work as a Web Application Developer with [Media.net](https://www.media.net/) 👔. Besides programming, I enjoy playing badminton and surfing through meme pages.
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
   
@@ -24,7 +27,7 @@ Hi, I'm [Abhishek Surve](https://abhisheksurve.netlify.app/) , a Computer Engine
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently following [August Leetcoding Challenge](https://github.com/abhisheksurve45/leetcode-aug-2020)
-- 🌱 I’m currently learning system design and competitive programming! 
+- 🌱 Also learning system design and competitive programming! 
 - 🧡 I love to read tech blogs! 
 - 💬 Ask me about anything, I am happy to help!
 - 📫 How to reach me: [Whatsapp](https://api.whatsapp.com/send?phone=918097958926&text=hello%20abhishek%21&source=&data=&app_absent=)
