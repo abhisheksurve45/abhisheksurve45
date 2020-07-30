@@ -18,7 +18,7 @@
 <br />
 <br />
 
-Hi, I'm [Abhishek Surve](https://abhisheksurve.netlify.app/), Computer Engineer 🚀 from Mumbai, India. I'm work as a Web Application Developer with [Media.net](https://www.media.net/) 👔. Besides programming, I enjoy playing badminton and surfing through meme pages.
+Hi, I'm [Abhishek Surve](https://abhisheksurve.netlify.app/), Computer Engineer 🚀 from Mumbai, India. I work as a Web Application Developer at [Media.net](https://www.media.net/) 👔. Besides programming, I enjoy playing badminton and surfing through meme pages.
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
   
