@@ -15,7 +15,7 @@
 <br />
 <br />
 
-Hi, I'm [Abhishek Surve](https://abhisheksurve.netlify.app/) , a Software Developer 🚀 from Mumbai, India, currently, I'm a Web Application Developer @ [Media.net](https://www.media.net/) 👔. Besides programming, I enjoy playing badminton and cricket.
+Hi, I'm [Abhishek Surve](https://abhisheksurve.netlify.app/) , a Computer Engineer 🚀 from Mumbai, India. I'm work as Web Application Developer @ [Media.net](https://www.media.net/) 👔. Besides programming, I enjoy playing badminton and cricket.
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
   
