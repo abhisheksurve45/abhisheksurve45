@@ -31,6 +31,6 @@ Hi, I'm [Abhishek Surve](https://abhisheksurve.netlify.app/) , a Computer Engine
 
 ![Abhishek's github stats](https://github-readme-stats.vercel.app/api?username=abhisheksurve45&show_icons=true&hide_border=true)
 
-<div style="border: 1px solid black;">
-<img class="center" alt="Abhishek's github visitors" src="https://visitor-badge.laobi.icu/badge?page_id=abhisheksurve45.abhisheksurve45"/>
-</div>
+<p align="center">
+    <img class="center" alt="Abhishek's github visitors" src="https://visitor-badge.laobi.icu/badge?page_id=abhisheksurve45.abhisheksurve45"/>
+</p>
