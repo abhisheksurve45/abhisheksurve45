@@ -14,6 +14,9 @@
 <a href="https://www.facebook.com/abhisheksurve45/">
   <img align="left" alt="Abhishek's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
+<a href="https://www.hackerrank.com/abhishekpsurve">
+  <img align="left" alt="Abhishek's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
+</a>
 
 <br />
 <br />
