@@ -29,7 +29,7 @@ Hi, I'm [Abhishek Surve](https://abhisheksurve.netlify.app/), Computer Engineer 
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently following [August Leetcoding Challenge](https://github.com/abhisheksurve45/leetcode-aug-2020)
+- 👨🏽‍💻 I’m currently following [September Leetcoding Challenge](https://github.com/abhisheksurve45/leetcode-sep-2020)
 - 🌱 Also learning system design and competitive programming! 
 - 🧡 I love to read tech blogs! 
 - 💬 Ask me about anything, I am happy to help!
