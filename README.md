@@ -13,17 +13,12 @@
 <a href="https://leetcode.com/socialabhis/">
   <img align="left" alt="Abhishek's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
 </a>
-<a href="https://www.instagram.com/abhisheksurve_/">
-  <img align="left" alt="Abhishek's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.facebook.com/abhisheksurve45/">
-  <img align="left" alt="Abhishek's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
+
 
 <br />
 <br />
 
-Hi, I'm [Abhishek Surve](https://abhisheksurve.netlify.app/), Software Engineer 🚀 from Mumbai, India. I work as Module Lead at [Media.net](https://www.media.net/) 👔. Besides programming, I enjoy playing badminton and surfing through meme pages.
+Hi, I'm [Abhishek Surve](https://abhisheksurve.netlify.app/), Software Engineer 🚀 from Mumbai, India. I work as Module Lead at [Bloomberg]([https://www.media.net/](https://bloomberg.avature.net/careers/SearchJobs/?1845=%5B162575%5D&1845_format=3996&listFilterMode=1&jobRecordsPerPage=12&)) 👔. Besides programming, I enjoy playing badminton and surfing through meme pages.
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
   
