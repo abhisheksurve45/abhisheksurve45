@@ -18,7 +18,7 @@
 <br />
 <br />
 
-Hi, I'm [Abhishek Surve](https://abhisheksurve.netlify.app/), Software Engineer 🚀 from Mumbai, India. I work as Module Lead at [Bloomberg]([https://www.media.net/](https://bloomberg.avature.net/careers/SearchJobs/?1845=%5B162575%5D&1845_format=3996&listFilterMode=1&jobRecordsPerPage=12&)) 👔. Besides programming, I enjoy playing badminton and surfing through meme pages.
+Hi, I'm [Abhishek Surve](https://abhisheksurve.netlify.app/), Software Engineer 🚀 from Mumbai, India. I work as Senior Software Engineer at [Bloomberg]([https://www.media.net/](https://bloomberg.avature.net/careers/SearchJobs/?1845=%5B162575%5D&1845_format=3996&listFilterMode=1&jobRecordsPerPage=12&)) 👔. Besides programming, I enjoy playing badminton and surfing through meme pages.
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
   
